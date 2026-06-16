@@ -63,14 +63,3 @@ What this score does give me:
 - Explore geospatial clustering (e.g., create neighborhood groups)
 
 
-## Project Structure
-london-airbnb-analysis/
-├── data/
-│ └── listings.csv
-├── notebooks/
-│ ├── 01_EDA.ipynb
-│ └── 02_Model_Training.ipynb
-├── app/
-│ └── app.py
-├── requirements.txt
-└── README.md
