@@ -1,0 +1,10 @@
+london-airbnb-analysis/
+├── data/
+│   └── airbnb_london.csv          # Your dataset
+├── notebooks/
+│   ├── 01_EDA.ipynb               # Exploratory Data Analysis
+│   └── 02_Model_Training.ipynb    # Price prediction model
+├── app/
+│   └── app.py                     # Streamlit dashboard
+├── requirements.txt
+└── README.md
