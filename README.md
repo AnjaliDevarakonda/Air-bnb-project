@@ -35,7 +35,7 @@ R² Score - 0.2252
 ### What Does This Score Mean?
 
 MAE £72.87- On average, the model's price predictions are off by about £73. For London, this is a reasonable starting point. |
-R² 0.2252- The model explains about 22.5% of the variation in listing prices. The other ~77.5% is influenced by factors not captured in this dataset - like reviews, amenities, property size, or seasonality. |
+R² 0.2252- The model explains about 22.5% of the variation in listing prices. The other ~77.5% is influenced by factors not captured in this dataset - like reviews, amenities, property size, or seasonality. 
 
 ### Is This a "Good" Score?
 
